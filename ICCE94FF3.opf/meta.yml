@@ -1,0 +1,16 @@
+id: ICCE94FF3
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:39:38.053992
+last_modified: 2023-02-09 14:39:38.054082
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: zh
+bases:
+  CEDA:
+    base_file: CEDA.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
